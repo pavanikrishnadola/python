@@ -1,0 +1,13 @@
+#program to accept book details & print them
+bcode=input("enter book code:")
+bname=input("enter book name:")
+price=float(input("enter book price:"))
+bpcode=input("enter book print code:")
+print("--------------------------------")
+print("\tBook Details")
+print("--------------------------------")
+print("code=",bcode)
+print("name=",bname)
+print("price=",price)
+print("print code=",bpcode)
+print("------------------------------")
