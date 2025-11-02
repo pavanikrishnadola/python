@@ -1,0 +1,10 @@
+#string
+str="India"
+str1='nipuna'
+print(str)
+print(str[1])
+print(str[-3])
+type(str)
+print(str1)
+print(str1[2])
+type(str1)
