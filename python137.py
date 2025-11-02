@@ -1,0 +1,11 @@
+#forzenset
+x={"pen","pencil","book","eraser"}
+print(x)
+print(type(x))
+x.add('scale')
+print(x)
+print("--------------------------")
+y=frozenset(x)
+print(y)
+print(type(y))
+y.add("nipuna")
